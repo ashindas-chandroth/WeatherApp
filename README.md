@@ -7,6 +7,7 @@ A modern and sleek React Native application built with **Redux** and **StepZen**
 - 🧑‍💻 Managed state with **Redux** for a consistent and scalable architecture.   
 - 🌐 Cross-platform compatibility for iOS and Android.  
 - 🔌 Powered by **StepZen** for server-side GraphQL integration.
+  
 
 ---  
 
@@ -95,7 +96,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Acknowledgements**  
 - [StepZen Documentation](https://stepzen.com/docs)  
-- [Redux Documentation](https://redux.js.org/)  
+- [Redux Documentation](https://redux.js.org/)
+- [Weather API Documentation](https://openweathermap.org/api)  
 
 ---  
 
