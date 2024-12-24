@@ -21,7 +21,7 @@ Ensure you have the following tools installed:
 ### **Installation**  
 1. Clone the repository:  
     ```bash  
-    git clone https://github.com/im-indian-techie/headspace.git  
+    git clone https://github.com/ashindas-chandroth/WeatherApp.git  
     cd headspace  
     ```  
 2. Install dependencies:  
@@ -40,7 +40,7 @@ Ensure you have the following tools installed:
     ```bash  
     yarn start  
     ```  
-4. Open the project in an Expo-compatible emulator or on your device via the **Expo Go** app.  
+
 
 ---  
 
@@ -102,4 +102,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## **Contact**  
 For inquiries, feel free to reach out:  
 - **Email**: ashindaschandroth97@gmail.com  
-- **GitHub**: [Ashindas Chandroth](https://github.com/im-indian-techie)  
+- **GitHub**: [ashindas-chandroth](https://github.com/ashindas-chandroth)  
